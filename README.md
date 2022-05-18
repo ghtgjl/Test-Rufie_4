@@ -11,5 +11,5 @@
 ![image](https://user-images.githubusercontent.com/104721684/169064203-4af9eeab-3444-4a97-ba14-29425c9249d7.png)
 
 
-*скриншоты приложения*
+*скриншот приложения*
 ![image](https://user-images.githubusercontent.com/104721684/169063816-f823e034-4e9f-4f84-bb04-8e215541fa78.png)
